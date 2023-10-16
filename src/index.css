@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.profile-bg{
+  background: #ffffff url(./images/cropped-1920-1080-9096411.png) center center/cover no-repeat;
+}
+
+.wrapper {
+  padding: 0;
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 0; /* Remove horizontal scrollbar */
+  height: 0; /* Remove vertical scrollbar */
+}
