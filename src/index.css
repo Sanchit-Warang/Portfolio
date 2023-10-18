@@ -8,7 +8,7 @@ body {
 }
 
 .profile-bg{
-  background: #ffffff url(./images/cropped-1920-1080-9096411.png) center center/cover no-repeat;
+  background: #ffffff url(../public/images/cropped-1920-1080-9096411.png) center center/cover no-repeat;
 }
 
 .wrapper {
